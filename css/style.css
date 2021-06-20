@@ -17,13 +17,12 @@ body{
     border: 1px solid white;
     justify-content: center;
     align-items: center;
+    height: 700px;
 }
 
 .side-left{
-    float: left;
     border: 1px solid white;
     width: 600px;
-    height: 600px;
 }
 
 .heading-title{
@@ -43,10 +42,8 @@ body{
 }
 
 .side-right{
-    float: left;
     border: 1px solid white;
     width: 600px;
-    height: 600px;
 }
 
 /* 
